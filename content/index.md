@@ -11,4 +11,9 @@
 
 
 
-[майнкрафт трейлер.         чтобы смотреть включи VPN](https://youtu.be/Rla3FUlxJdE?si=pUMJwJdDp9T8pnxE)
+[майнкрафт трейлер](https://youtu.be/Rla3FUlxJdE)
+
+
+ <iframe width="420" height="315"
+src="https://www.youtube.com/embed/Rla3FUlxJdE">
+</iframe>
